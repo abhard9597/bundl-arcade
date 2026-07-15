@@ -11,7 +11,10 @@
 # launcher executable
 bundlApp/bundl
 
+# VS Code settings
+.vscode/
+
 # game executables
 Snake/SnakeApp
 ConnectFour/ConnectFourApp
-Anagrams/AnagramsApp.vscode/
+Anagrams/AnagramsApp
