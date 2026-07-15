@@ -1,0 +1,25 @@
+var class_connect_four_panel =
+[
+    [ "ConnectFourPanel", "class_connect_four_panel.html#a5574e18d5d83bcb453ba25f550a1a7c1", null ],
+    [ "DrawBoard", "class_connect_four_panel.html#a3637ab783ff0580da26c9dc663d0b5c1", null ],
+    [ "GetBoardRect", "class_connect_four_panel.html#a67fbe8efe594c2358a2e97692dcf6a45", null ],
+    [ "MakeAIMove", "class_connect_four_panel.html#ac34cf4b9a0f650ac308feb3979298178", null ],
+    [ "OnAITimer", "class_connect_four_panel.html#ad326e77520ecd8d441544d3ac28f288b", null ],
+    [ "OnLeftClick", "class_connect_four_panel.html#ad057dbb0aa7c72d9d878ae59d70341a4", null ],
+    [ "OnPaint", "class_connect_four_panel.html#a8ad42da99cb87e0479e723dfc9b61db3", null ],
+    [ "OnSize", "class_connect_four_panel.html#aed6fc121308ba92c3112dac86e4024f4", null ],
+    [ "RecordStatsIfNeeded", "class_connect_four_panel.html#a3d246a2b5df4a3dc12238d55c1c394ed", null ],
+    [ "ShowGameOverDialog", "class_connect_four_panel.html#a1762ba702c8241a5ec39a0d0e432df98", null ],
+    [ "wxDECLARE_EVENT_TABLE", "class_connect_four_panel.html#aabcc6d37875de321ae2de699eefdb06c", null ],
+    [ "ai", "class_connect_four_panel.html#a25dec9c8365e686fbd3f7354f4b7d05a", null ],
+    [ "aiThinking", "class_connect_four_panel.html#a40645f3bd97286bdc1126779bd21ddee", null ],
+    [ "aiTimer", "class_connect_four_panel.html#a894bbeca921ed1e6d240889373967ede", null ],
+    [ "CELL_SIZE", "class_connect_four_panel.html#a0bd918f512c4ccca5b093c87dce3506a", null ],
+    [ "game", "class_connect_four_panel.html#a1079cfb08da1b54b02f05b6f16f90e51", null ],
+    [ "m_bgOriginal", "class_connect_four_panel.html#aa54eb81dad35cd95028824d46a95dfaf", null ],
+    [ "m_bgScaled", "class_connect_four_panel.html#a9b258760aa941cfc2973bfa1fe004430", null ],
+    [ "mode", "class_connect_four_panel.html#a5ee32660b67382057e8893de6b14335e", null ],
+    [ "PADDING", "class_connect_four_panel.html#a227ef60764c9e81d1f0e5091c482aef9", null ],
+    [ "soundManager", "class_connect_four_panel.html#a329b22c199037cc341205ab880b3a1e0", null ],
+    [ "statsRecordedForCurrentGame", "class_connect_four_panel.html#a57674d23a8cb339a5e8b597b117e8daa", null ]
+];

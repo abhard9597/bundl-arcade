@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['save_0',['Save',['../class_stats_manager.html#a10f707550d95ce1cd1db5f497d6822b5',1,'StatsManager']]],
+  ['setdictionary_1',['SetDictionary',['../class_game_logic.html#a21769ce6923669bb3d6b5da464e63ef6',1,'GameLogic']]],
+  ['setenabled_2',['SetEnabled',['../class_sound_manager.html#a8227066a5d6308614ea76f5a3210246d',1,'SoundManager']]],
+  ['setonback_3',['SetOnBack',['../class_game_panel.html#a63f0bc2c00d1ae76d9ab9b96dadb7493',1,'GamePanel']]],
+  ['setonnewgame_4',['SetOnNewGame',['../class_menu_panel.html#a757830aaf89cd8e38d17c6c8a799fb3d',1,'MenuPanel']]],
+  ['setonpause_5',['SetOnPause',['../class_game_panel.html#a2d76ce6d78ade61a9dee62dd3d6a810d',1,'GamePanel']]],
+  ['setonquit_6',['SetOnQuit',['../class_menu_panel.html#ae4267941852b20c4f141b60a858e4d90',1,'MenuPanel']]],
+  ['setonshuffle_7',['SetOnShuffle',['../class_game_panel.html#a2009c7de68df7505cbb85129430344ae',1,'GamePanel']]],
+  ['setonstats_8',['SetOnStats',['../class_menu_panel.html#a11608b59f44b5fab230ccd16fddba75a',1,'MenuPanel']]],
+  ['setonsubmit_9',['SetOnSubmit',['../class_game_panel.html#a6cab239f996e8b76e173b8d73bb763b8',1,'GamePanel']]],
+  ['setontutorial_10',['SetOnTutorial',['../class_menu_panel.html#a842500cfe7537787725cec4854c0c95f',1,'MenuPanel']]],
+  ['setrack_11',['SetRack',['../class_game_logic.html#a8f1603776bfc247b437bccfa448551c5',1,'GameLogic::SetRack()'],['../class_game_panel.html#ad4accaba14db2e4faabcfe98a2c7e961',1,'GamePanel::SetRack(const wxString &amp;rackSpacedUpper)']]],
+  ['setscore_12',['SetScore',['../class_game_panel.html#a6581e2a26e36198c7c229d5f7bc41006',1,'GamePanel']]],
+  ['setstatus_13',['SetStatus',['../class_game_panel.html#aa5d1103ae213d52cfdbcf8a7c778341c',1,'GamePanel']]],
+  ['settime_14',['SetTime',['../class_game_panel.html#af511f8c15011d5748d4cd6d3c8e26bd2',1,'GamePanel']]],
+  ['showgame_15',['ShowGame',['../class_anagrams_main_frame.html#afcc1474e2c57c6c8a12ff17838a111f3',1,'AnagramsMainFrame']]],
+  ['showmenu_16',['ShowMenu',['../class_anagrams_main_frame.html#aeec028a88b203c682c7a18eb2497495f',1,'AnagramsMainFrame']]],
+  ['startround_17',['StartRound',['../class_anagrams_main_frame.html#ac4562a7042db7e1fd472263788a983d2',1,'AnagramsMainFrame']]],
+  ['submit_18',['Submit',['../class_game_panel.html#a0a9699226fc3047e03bda853aec55eff',1,'GamePanel']]]
+];

@@ -1,0 +1,5 @@
+gamesPlayed=3
+bestScore=234
+totalScore=475
+totalWordsFound=34
+totalSecondsPlayed=180

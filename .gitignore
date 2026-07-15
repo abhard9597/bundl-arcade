@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# build artifacts
+*.o
+*.d
+*.out
+*.exe
+*.dSYM/
+
+# launcher executable
+bundlApp/bundl
+
+# game executables
+Snake/SnakeApp
+ConnectFour/ConnectFourApp
+Anagrams/AnagramsApp

@@ -1,0 +1,16 @@
+# VS Code settings
+.vscode/
+
+# macOS build artifacts
+*.dSYM
+
+# compiled binaries
+ConnectFour
+*.out
+*.exe
+
+# object files
+*.o
+
+# temporary files
+*.log

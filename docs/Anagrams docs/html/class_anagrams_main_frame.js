@@ -1,0 +1,27 @@
+var class_anagrams_main_frame =
+[
+    [ "AnagramsMainFrame", "class_anagrams_main_frame.html#ad44db4542ea6a17e3fa58b0c40aab613", null ],
+    [ "EndRound", "class_anagrams_main_frame.html#a3a78167a7d7998fa3ad03f9a366be369", null ],
+    [ "OnAccelPause", "class_anagrams_main_frame.html#a2d63184a4e85f602457d579fb532f460", null ],
+    [ "OnBackToMenu", "class_anagrams_main_frame.html#a71ad0e945c5158d84fcf0f7114000d3b", null ],
+    [ "OnNewGame", "class_anagrams_main_frame.html#a4be9f32c75e5fd57880bad7288e8b5c5", null ],
+    [ "OnPause", "class_anagrams_main_frame.html#a469a0940f990a8f2bac83b9712cffdb0", null ],
+    [ "OnShuffle", "class_anagrams_main_frame.html#ae1b474aa2f1ed2b786c78ece2f44c893", null ],
+    [ "OnStatsFromMenu", "class_anagrams_main_frame.html#aba267451c3fef41dce4349bd4be0264d", null ],
+    [ "OnSubmitWord", "class_anagrams_main_frame.html#a22915a5304b83b8116758d8986725ece", null ],
+    [ "OnTick", "class_anagrams_main_frame.html#a88ab22797669e678411f3d02101e46aa", null ],
+    [ "OnTutorialFromMenu", "class_anagrams_main_frame.html#ae6304222cc56d1ec991b8c0c89450e02", null ],
+    [ "ShowGame", "class_anagrams_main_frame.html#afcc1474e2c57c6c8a12ff17838a111f3", null ],
+    [ "ShowMenu", "class_anagrams_main_frame.html#aeec028a88b203c682c7a18eb2497495f", null ],
+    [ "StartRound", "class_anagrams_main_frame.html#ac4562a7042db7e1fd472263788a983d2", null ],
+    [ "m_dict", "class_anagrams_main_frame.html#aae8de2e0bb8825d1678fe36eebd73b14", null ],
+    [ "m_game", "class_anagrams_main_frame.html#a838f1e9ad8d511b00a4da41051c396e9", null ],
+    [ "m_isPaused", "class_anagrams_main_frame.html#aa4b7fea038bb3b66f8291b0445a7297c", null ],
+    [ "m_logic", "class_anagrams_main_frame.html#a23e974a77f2cdf79988e33df4625e1b9", null ],
+    [ "m_menu", "class_anagrams_main_frame.html#a1181018b01a0f0c2038ba85c1f3a951e", null ],
+    [ "m_root", "class_anagrams_main_frame.html#aaee35fca726855b307d4846212ee0fa0", null ],
+    [ "m_rootSizer", "class_anagrams_main_frame.html#af98c25543fa82a2b61d04c7b616b9065", null ],
+    [ "m_secondsLeft", "class_anagrams_main_frame.html#a16737321bd81ab5f52977230a2d51ea3", null ],
+    [ "m_stats", "class_anagrams_main_frame.html#a23d36a61247673a4eea52526635970cb", null ],
+    [ "m_timer", "class_anagrams_main_frame.html#ada69ab6018a23a903e759261f97fa6bf", null ]
+];

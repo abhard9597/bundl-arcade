@@ -1,0 +1,27 @@
+var class_connect_four_menu =
+[
+    [ "ConnectFourMenu", "class_connect_four_menu.html#a2a00e7ef64530358fc63337152141925", null ],
+    [ "getSelectedDifficulty", "class_connect_four_menu.html#a903dea916e12c4ee32c507126bff595f", null ],
+    [ "getSelectedMode", "class_connect_four_menu.html#a1049ff1e38dbf7122d2ce24a1dab05b7", null ],
+    [ "OnButton1", "class_connect_four_menu.html#a2c5e56785a9db4661e737f8077f19a8f", null ],
+    [ "OnButton2", "class_connect_four_menu.html#aa4c1f553a13b919632a4d762679ffb97", null ],
+    [ "OnButton3", "class_connect_four_menu.html#a04e6cd60e67a33cc6048f85a2d5c617b", null ],
+    [ "OnButton4", "class_connect_four_menu.html#ab6ab62b5264659fbedabab359779c464", null ],
+    [ "OnPaint", "class_connect_four_menu.html#a41168fea1037ccb0a54a75d89107b399", null ],
+    [ "OnSize", "class_connect_four_menu.html#a1f7b2df2133e97aa283fd1f3feef0856", null ],
+    [ "SetButtonText", "class_connect_four_menu.html#a23d1439ca871f5739b9dd12d4f38c5fb", null ],
+    [ "ShowDifficultyMenu", "class_connect_four_menu.html#a9b20b8df04ab0bd54637208373e625c4", null ],
+    [ "ShowMainMenu", "class_connect_four_menu.html#a1a11b058879227276c60052350cb59f0", null ],
+    [ "button1", "class_connect_four_menu.html#aeb3ded146fb7acc16e5f51edb45a4e7b", null ],
+    [ "button2", "class_connect_four_menu.html#a7410362ef38df50ca164f713150c83b4", null ],
+    [ "button3", "class_connect_four_menu.html#a8a4cba9acba61ab0b87bf607753396d1", null ],
+    [ "button4", "class_connect_four_menu.html#a4395cd64dc3067c8d00337a52eb92051", null ],
+    [ "currentScreen", "class_connect_four_menu.html#a80f837106cd1deba4b32e850dfc239d7", null ],
+    [ "m_bgOriginal", "class_connect_four_menu.html#a28ca9e4734958d6112c9ec0c6247c251", null ],
+    [ "m_bgScaled", "class_connect_four_menu.html#a43275427911ee6f72bf86804261c495f", null ],
+    [ "selectedDifficulty", "class_connect_four_menu.html#ae5da685f3e22aa09c080e0f8b814c1b0", null ],
+    [ "selectedMode", "class_connect_four_menu.html#aaafd16e4e24150a78ebd3eb2910b6407", null ],
+    [ "soundManager", "class_connect_four_menu.html#afa0625b93f72f93467b06f123e69a5e3", null ],
+    [ "subtitle", "class_connect_four_menu.html#ad249fdf3f96ea856f3c4f0ae93ab7e68", null ],
+    [ "title", "class_connect_four_menu.html#affbfd1fb3b8571c5361d71a19c0b76cc", null ]
+];

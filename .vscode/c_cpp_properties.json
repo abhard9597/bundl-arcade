@@ -1,0 +1,42 @@
+{
+  "version": 4,
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/usr/local/lib/wx/include/osx_cocoa-unicode-3.3",
+        "/usr/local/include/wx-3.3"
+      ],
+      "defines": [
+        "_FILE_OFFSET_BITS=64",
+        "wxDEBUG_LEVEL=0",
+        "WXUSINGDLL",
+        "__WXMAC__",
+        "__WXOSX__",
+        "__WXOSX_COCOA__"
+      ],
+      "compilerPath": "/usr/bin/clang++",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "macos-clang-x64"
+    },
+    {
+      "name": "Windows",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/wxWidgets-3.3.2/include",
+        "C:/wxWidgets-3.3.2/lib/vc_x64_lib/mswu"
+      ],
+      "defines": [
+        "_UNICODE",
+        "UNICODE",
+        "__WXMSW__"
+      ],
+      "compilerPath": "cl.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ]
+}
